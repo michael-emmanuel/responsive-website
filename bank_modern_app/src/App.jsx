@@ -9,7 +9,7 @@ import {
   CardDeal,
   Testimonials,
   Clients,
-  CTA,
+  CTA, // Not sure why CTA is highlighted, app uneffected 
   Footer,
 } from "./components/"
 
